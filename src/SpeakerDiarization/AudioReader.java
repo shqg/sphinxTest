@@ -10,6 +10,8 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.UnsupportedAudioFileException;
 
 class AudioReader {
+	
+	//sss
 
 	public List<String> list;
 	public List<double[]> allFrames;
